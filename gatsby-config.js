@@ -1,30 +1,30 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Glass`,
+    title: `sarforms.com`,
     author: {
-      name: `Yinka Adedire`,
-      summary: `Self-taught front-end web dev. JAMStack.`,
+      name: `Phil`,
+      summary: `Working the IT space for 6 years.`,
     },
-    openGraphImage: `open-graph-image.png`,
-    description: `A minimal & beautiful gatsby personal blog starter with a nice glassmorphism UI.`,
-    siteUrl: `https://gatsbyglass.netlify.app`,
-    social: {
-      twitter: `yinkakun`,
-    },
-    socialLinks: [
-      {
-        name: "github",
-        url: "https://github.com",
-      },
-      {
-        name: "twitter",
-        url: "https://twitter.com",
-      },
-      {
-        name: "instagram",
-        url: "https://instagram.com",
-      },
-    ],
+    // openGraphImage: `open-graph-image.png`,
+    description: `Stories Processing Systems Access Request Forms`,
+    siteUrl: `https://sarforms.com`,
+    // social: {
+    //  twitter: `yinkakun`,
+    // },
+    // socialLinks: [
+    //   {
+    //     name: "github",
+    //     url: "https://github.com",
+    //   },
+    //   {
+    //     name: "twitter",
+    //     url: "https://twitter.com",
+    //   },
+    //   {
+    //     name: "instagram",
+    //     url: "https://instagram.com",
+    //   },
+    // ],
   },
   plugins: [
     `gatsby-plugin-styled-components`,
