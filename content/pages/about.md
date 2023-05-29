@@ -1,12 +1,8 @@
 ---
-title: About Mee
+title: About Me
 template: about-template
 profile_image: /media/profile-image.jpg
 ---
+# Hi, I'm Phil
 
-# Hi, I'm John Doe
-
-This website is a live example of a Gatsby Starter — it's not a real blog.
-People using this starter may want to add some information to this page about them or their business.
-
-
+I'm a sys admin, working in the IT space for 6 years. I made this blog for fun delving into the niche of systems access request forms. Prepare to be entertained.
